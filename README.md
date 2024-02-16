@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## Welcome to my profile, I am a software developer, part time freelance.
+I am currently System Analyst  at Fabrinetand have previously Programmer Analyst at TDK Group Magnecomp, Thanks for visiting.
 <!--
 **jakkapan1789/jakkapan1789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
