@@ -26,3 +26,10 @@ Welcome to my profile! Allow me to present myself: I am a software developer and
 
 
 
+## Operating System familiar with
+[![MacOS](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white&style=flat)](https://www.apple.com/macos)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/windows)
+
+## IDE familiar with
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)](https://visualstudio.microsoft.com/)
