@@ -6,6 +6,7 @@ Welcome to my profile! I'm a software developer and part-time freelancer. Curren
 ## Frontend Technologies
 [![Angular](https://img.shields.io/badge/angular-DD0031?logo=angular&logoColor=white&style=flat)](https://angular.io/)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)](https://vuejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
