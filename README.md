@@ -14,15 +14,23 @@ Welcome to my profile! I'm a software developer and part-time freelancer. Curren
 [![MUI](https://img.shields.io/badge/MUI-0081CB?logo=material-ui&logoColor=white&style=flat)](https://mui.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/)
 
-## Backend Technologies
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=flat)](https://dotnet.microsoft.com/)
+## Backend Technologies & Languages
+
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C# WebSocket](https://img.shields.io/badge/C%23%20WebSocket-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/dotnet/api/system.net.websockets.websocket)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=flat)](https://dotnet.microsoft.com/)
+[![C# RESTful API](https://img.shields.io/badge/C%23%20RESTful%20API-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
 [![Python FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)](https://fastapi.tiangolo.com/)
 [![Python Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com/)
+
+
+
 ## Database Technologies
 [![SQL Database](https://img.shields.io/badge/SQL%20Database-003B57?logo=microsoft-sql-server&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=flat)](https://www.oracle.com/database/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
