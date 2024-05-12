@@ -1,6 +1,7 @@
 ## Hi there 👋
 Welcome to my profile! I'm a software developer and part-time freelancer. Currently, I work as a System Analyst at Fabrinet, and previously, I was a Programmer Analyst at TDK Group Magnecomp. Thank you for visiting.
 
+
 # Skills Overview
 
 ## Frontend Technologies
@@ -26,6 +27,10 @@ Welcome to my profile! I'm a software developer and part-time freelancer. Curren
 [![Python FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)](https://fastapi.tiangolo.com/)
 [![Python Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com/)
 
+### NPM Package
+
+[![applove](https://img.shields.io/npm/v/applove?label=applove&logo=npm)](https://www.npmjs.com/package/applove)
+[![NPM Downloads](https://img.shields.io/npm/dt/applove.svg)](https://www.npmjs.com/package/applove)
 
 
 ## Database Technologies
